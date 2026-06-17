@@ -3,7 +3,7 @@
 
 class Database {
     private $host = "localhost";
-    private $db_name = "nama_database_anda"; // Sesuaikan dengan database Anda
+    private $db_name = "db_simulasi_pbo_kelas_akmalviasda"; // Sesuaikan dengan database Anda
     private $username = "root";              // Sesuaikan dengan username Anda
     private $password = "";                  // Sesuaikan dengan password Anda
     public $conn;
