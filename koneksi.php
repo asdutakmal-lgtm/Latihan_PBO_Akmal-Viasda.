@@ -1,4 +1,7 @@
 <?php
+//assalamualaikum wr.wb
+//nama : Akmal Viasda
+//kelas : TI-1C
 // file: koneksi.php
 
 class Database {
